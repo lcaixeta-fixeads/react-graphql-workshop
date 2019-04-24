@@ -31,6 +31,7 @@ const currentUserQuery = gql`
 
 ```js
 import { allTweetsQuery } from '../queries';
+import { Query } from 'react-apollo';
 ```
 
 ```js
